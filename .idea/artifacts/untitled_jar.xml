@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="untitled:jar">
+    <output-path>$USER_HOME$/AppData/Roaming/.feather/player-server/servers/612e2c54-0b55-4e40-a5d9-801f342a4a05/plugins</output-path>
+    <root id="archive" name="untitled.jar">
+      <element id="module-output" name="untitled" />
+    </root>
+  </artifact>
+</component>
